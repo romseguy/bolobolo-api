@@ -1,0 +1,24 @@
+{
+  "help": "Afficher l'aide",
+  "login": "connexion",
+  "logout": "déconnexion",
+  "map": "carte",
+  "my_profile": "Vous êtes sur votre profil",
+  "my_profile_go": "Aller sur mon profil",
+  "title": "Changer votre position",
+  "title_city": "Vous êtes à {{city}}",
+  "tutorial": "tutoriel",
+  "entityIcon": {
+    "title": {
+      "city": "Vous êtes sur le profil de la ville :",
+      "person": "Vous êtes sur le profil de la personne :",
+      "place": "Vous êtes sur le profil du lieu :"
+    }
+  },
+  "location": {
+    "title": {
+      "default": "Revenir à {{city}}",
+      "place": "Afficher ce lieu sur la carte"
+    }
+  }
+}

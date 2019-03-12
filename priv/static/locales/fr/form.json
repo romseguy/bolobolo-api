@@ -1,0 +1,60 @@
+{
+  "failed_loading": "Le formulaire n'a pu être chargé, êtes vous connecté à Internet ?",
+  "auth": {
+    "department_confirm": "Veuillez sélectionner votre département principal :",
+    "email": "Adresse e-mail",
+    "forgotten": "Mot de passe oublié ?",
+    "forgotten_confirm": "Recevoir un e-mail de réinitialisation de mot de passe",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "password": "Mot de passe",
+    "password2": "Confirmation",
+    "register": "Inscription",
+    "title": "Authentification",
+    "username": "Nom d'utilisateur"
+  },
+  "place": {
+    "city": "Sélectionnez la ville où se situe le lieu :",
+    "create": "Nouveau lieu",
+    "title_add": "Connecter un lieu à mon profil",
+    "title_edit": "Modifier",
+    "map": "(Optionnel) Cliquez à l'endroit où est situé le lieu :",
+    "name": "Nom du lieu :",
+    "select": "Lieu existant",
+    "save": "Enregister",
+    "select_save": "Connecter",
+    "select_view": "Consulter"
+  },
+  "setLocation": {
+    "header": "Définissez votre position",
+    "city": "Choisissez la ville ou le village où vous êtes",
+    "save": "Enregistrer"
+  },
+  "symbol": {
+    "save": "Enregister",
+    "parrot": {
+      "description": "Comme vous n'êtes pas gardien de ce lieu, le perroquet sera soumis à validation par un des gardiens du lieu. Une fois validé, celui-ci apparaitra sur le profil du lieu et le message sera envoyé comme configuré ci-dessous.",
+      "label": "perroquet",
+      "header": {
+        "add": "Connecter un perroquet au lieu : {{placeTitle}}",
+        "edit": "Modifier le perroquet du lieu : {{placeTitle}}"
+      },
+      "fields": {
+        "body": "Corps du message :",
+        "title": "Titre du message :"
+      }
+    }
+  },
+  "user": {
+    "create": {
+      "label": "Nouvel utilisateur",
+      "save": "Parainner"
+    },
+    "header_add": "Connecter une personne",
+    "header_edit": "Modifier",
+    "select": {
+      "label": "Utilisateur existant",
+      "save": "Connecter"
+    }
+  }
+}
